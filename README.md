@@ -1,4 +1,4 @@
-# A basic Go stucture template
+# A basic Go structure template
 A basic project structure for golang web applications.
 
 ### Project tree:
